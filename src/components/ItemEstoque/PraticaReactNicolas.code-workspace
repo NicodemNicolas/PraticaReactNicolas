@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PraticaReactNicolas",
+			"path": "../../../../../../../OneDrive - Instituto Germinare/Anotações/2° Ano/DAD/React/PraticaReactNicolas"
+		},
+		{
+			"name": "prova-2f",
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PraticaReactNicolas"
+	}
+}
